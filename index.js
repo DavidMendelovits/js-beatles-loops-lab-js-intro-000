@@ -32,3 +32,5 @@ function iLoveTheBeatles (x) {
   }
   return array;
 }
+
+iLoveTheBeatles(12);
